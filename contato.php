@@ -4,14 +4,11 @@
 ?>
 
 <?php
-    $nome = "Henrique";
-    $saudacao = "Olá";
-    $idade = 20;
+    include  "includes/formulario.php";
+
 ?>
 
-<body class="conatato">
-    
-</body>
+
 <?php
     include "includes/footer.php";
 ?>

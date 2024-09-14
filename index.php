@@ -1,19 +1,17 @@
 <?php
-    $title = "E-Commerce ADS 2024";
+    $title = "HG DRINKS";
     include "includes/header.php";
 ?>
 
+<div class="banner">
+    <img src="assets/img/banner.png" alt="Banner Image">
+
+</div>
+
 <?php
-    $nome = "Henrique";
-    $saudacao = "Olá";
-    $idade = 20;
+    include  "includes/bebidas.php";
+
 ?>
-
-<body>
-    <div class="main">
-
-    </div>
-</body>
 
 <?php
     include "includes/footer.php";

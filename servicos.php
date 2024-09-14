@@ -4,14 +4,9 @@
 ?>
 
 <?php
-    $nome = "Henrique";
-    $saudacao = "Olá";
-    $idade = 20;
-?>
+    include  "includes/sobre.php";
 
-<body class="servico">
-    
-</body>
+?>
 
 <?php
     include "includes/footer.php";
